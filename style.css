@@ -1,0 +1,24 @@
+body {
+    color: rgb(240, 52, 140);
+    background: rgb(231, 221, 211);
+margin: 0px;
+font-family: "Noto Sans", sans-serif;
+}
+
+header {
+
+
+    border-bottom: solid 2px rgb(255, 0, 157);
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
+
+section{
+background: rgb(231, 148, 173);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
